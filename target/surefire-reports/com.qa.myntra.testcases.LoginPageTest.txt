@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.qa.myntra.testcases.LoginPageTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 2, Time elapsed: 2.892 sec <<< FAILURE!
+setup(com.qa.myntra.testcases.LoginPageTest)  Time elapsed: 2.285 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.qa.myntra.base.Baseclass.initialisation(Baseclass.java:43)
+	at com.qa.myntra.testcases.LoginPageTest.setup(LoginPageTest.java:20)
+
